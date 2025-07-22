@@ -21,3 +21,4 @@ Partie 1.4
 
 Partie 2
 1. 
+[![Quality gate](http://localhost:9000/api/project_badges/quality_gate?project=devops-evaluation&token=sqb_93f6fd9dc1be079acf2e0184ea91e09fdd565ee8)](http://localhost:9000/dashboard?id=devops-evaluation)
