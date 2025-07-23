@@ -26,6 +26,9 @@ Partie 1.4
 - verify-k8s.bat
 
 Partie 2
+
+[![Quality gate](http://localhost:9000/api/project_badges/quality_gate?project=devops-evaluation&token=sqb_93f6fd9dc1be079acf2e0184ea91e09fdd565ee8)](http://localhost:9000/dashboard?id=devops-evaluation)
+
 ## Étapes du Pipeline
 
 1. **Checkout** - Clone automatique depuis GitHub
@@ -68,4 +71,3 @@ docker exec jenkins-target service apache2 status
 
 # Logs
 docker logs jenkins-target 
-[![Quality gate](http://localhost:9000/api/project_badges/quality_gate?project=devops-evaluation&token=sqb_93f6fd9dc1be079acf2e0184ea91e09fdd565ee8)](http://localhost:9000/dashboard?id=devops-evaluation)
